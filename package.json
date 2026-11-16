@@ -1,0 +1,9 @@
+{
+  "name": "branch-ops-tracker-server",
+  "version": "1.16.0",
+  "description": "Branch Ops Tracker with multi-device sync (no dependencies)",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
